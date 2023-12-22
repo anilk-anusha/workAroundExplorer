@@ -16,14 +16,14 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 
 ## General Info
 
- The main purpose of this project is to understand implementing modules using ES6 syntax in JavaScript.
+ The main purpose of this project is to understand how to implement modules using ES6 syntax in JavaScript.
 
 ## To-do List
 
-- [ ] Render the radio buttons using the salaryData module
-- [ ] Create the workAroundModule
-- [ ] Calculate and render the data when the user input changes
-- [ ] Properly format a number
+- [x] Render the radio buttons using the salaryData module
+- [x] Create the workAroundModule
+- [x] Calculate and render the data when the user input changes
+- [x] Properly format a number
 
 ## Technologies
 
